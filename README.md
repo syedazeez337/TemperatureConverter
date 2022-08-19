@@ -1,5 +1,5 @@
 # TemperatureConverter
-An usual temperature converter with two optios
+An usual temperature converter with two options
 1. Fahrenheit to Celsius
 2. Celsius to Fahrenheit
 
